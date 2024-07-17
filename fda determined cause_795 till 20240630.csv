@@ -1,0 +1,796 @@
+,num,cause
+0,0,Device Design
+1,1,Software Design Change
+2,2,Equipment maintenance
+3,3,Process control
+4,4,Process control
+5,5,Unknown/Undetermined by firm
+6,6,Device Design
+7,7,Device Design
+8,8,Component design/selection
+9,9,Component design/selection
+10,10,Component design/selection
+11,11,Device Design
+12,12,Manufacturing material removal
+13,13,Component design/selection
+14,14,Software Manufacturing/Software Deployment
+15,15,Unknown/Undetermined by firm
+16,16,Under Investigation by firm
+17,17,Device Design
+18,18,Device Design
+19,19,Device Design
+20,20,Labeling design
+21,21,Component design/selection
+22,22,Device Design
+23,23,Other
+24,24,Component design/selection
+25,25,Device Design
+26,26,Component design/selection
+27,27,Environmental control
+28,28,Employee error
+29,29,Software Manufacturing/Software Deployment
+30,30,Component design/selection
+31,31,Component design/selection
+32,32,Component design/selection
+33,33,Device Design
+34,34,Nonconforming Material/Component
+35,35,Device Design
+36,36,Material/Component Contamination
+37,37,Process control
+38,38,Device Design
+39,39,Device Design
+40,40,Device Design
+41,41,Device Design
+42,42,Device Design
+43,43,Component design/selection
+44,44,Component design/selection
+45,45,No Marketing Application
+46,46,Nonconforming Material/Component
+47,47,Nonconforming Material/Component
+48,48,Unknown/Undetermined by firm
+49,49,Device Design
+50,50,Device Design
+51,51,Nonconforming Material/Component
+52,52,Labeling design
+53,53,Labeling design
+54,54,Labeling design
+55,55,Labeling design
+56,56,Labeling design
+57,57,Labeling design
+58,58,Component design/selection
+59,59,Component design/selection
+60,60,Nonconforming Material/Component
+61,61,Nonconforming Material/Component
+62,62,Nonconforming Material/Component
+63,63,Software design
+64,64,Nonconforming Material/Component
+65,65,Material/Component Contamination
+66,66,Nonconforming Material/Component
+67,67,Process control
+68,68,Component design/selection
+69,69,Process design
+70,70,Device Design
+71,71,Device Design
+72,72,Device Design
+73,73,Device Design
+74,74,Device Design
+75,75,Device Design
+76,76,Device Design
+77,77,Device Design
+78,78,Employee error
+79,79,Nonconforming Material/Component
+80,80,Nonconforming Material/Component
+81,81,Nonconforming Material/Component
+82,82,Nonconforming Material/Component
+83,83,Nonconforming Material/Component
+84,84,Device Design
+85,85,Device Design
+86,86,Device Design
+87,87,Device Design
+88,88,Material/Component Contamination
+89,89,Nonconforming Material/Component
+90,90,Nonconforming Material/Component
+91,91,Nonconforming Material/Component
+92,92,Process control
+93,93,Device Design
+94,94,Component design/selection
+95,95,Component design/selection
+96,96,Mixed-up of materials/components
+97,97,Process control
+98,98,Other
+99,99,Other
+100,100,Other
+101,101,Component design/selection
+102,102,Device Design
+103,103,Equipment maintenance
+104,104,Device Design
+105,105,Device Design
+106,106,Other
+107,107,Device Design
+108,108,Device Design
+109,109,Other
+110,110,Device Design
+111,111,Device Design
+112,112,Other
+113,113,Other
+114,114,Other
+115,115,Other
+116,116,Other
+117,117,Other
+118,118,Other
+119,119,Other
+120,120,Nonconforming Material/Component
+121,121,Nonconforming Material/Component
+122,122,Nonconforming Material/Component
+123,123,Nonconforming Material/Component
+124,124,Other
+125,125,Device Design
+126,126,Nonconforming Material/Component
+127,127,Material/Component Contamination
+128,128,Component change control
+129,129,Component change control
+130,130,Component change control
+131,131,Component change control
+132,132,Nonconforming Material/Component
+133,133,Device Design
+134,134,Device Design
+135,135,Other
+136,136,Process design
+137,137,Software design
+138,138,Process control
+139,139,Process control
+140,140,Process control
+141,141,Process control
+142,142,Process control
+143,143,Process control
+144,144,Process control
+145,145,Process control
+146,146,Process control
+147,147,Process control
+148,148,Process control
+149,149,Process control
+150,150,Process control
+151,151,Process control
+152,152,Process control
+153,153,Process control
+154,154,Process control
+155,155,Process control
+156,156,Process control
+157,157,Process control
+158,158,Nonconforming Material/Component
+159,159,Other
+160,160,Component design/selection
+161,161,Nonconforming Material/Component
+162,162,Component design/selection
+163,163,Other
+164,164,Other
+165,165,Device Design
+166,166,Process change control
+167,167,Nonconforming Material/Component
+168,168,Nonconforming Material/Component
+169,169,Device Design
+170,170,Device Design
+171,171,Nonconforming Material/Component
+172,172,Nonconforming Material/Component
+173,173,Labeling design
+174,174,Device Design
+175,175,Device Design
+176,176,Device Design
+177,177,Device Design
+178,178,Device Design
+179,179,Device Design
+180,180,Device Design
+181,181,Device Design
+182,182,Device Design
+183,183,Device Design
+184,184,Nonconforming Material/Component
+185,185,Device Design
+186,186,Device Design
+187,187,Process design
+188,188,Component design/selection
+189,189,Nonconforming Material/Component
+190,190,Nonconforming Material/Component
+191,191,Nonconforming Material/Component
+192,192,Nonconforming Material/Component
+193,193,Nonconforming Material/Component
+194,194,Nonconforming Material/Component
+195,195,Component design/selection
+196,196,Device Design
+197,197,Nonconforming Material/Component
+198,198,Device Design
+199,199,Device Design
+200,200,Device Design
+201,201,Device Design
+202,202,Process control
+203,203,Device Design
+204,204,Device Design
+205,205,Labeling design
+206,206,Process control
+207,207,Process control
+208,208,Process control
+209,209,Process control
+210,210,Packaging change control
+211,211,Packaging change control
+212,212,Process control
+213,213,Process control
+214,214,Device Design
+215,215,Device Design
+216,216,Device Design
+217,217,Device Design
+218,218,Device Design
+219,219,Device Design
+220,220,Device Design
+221,221,Device Design
+222,222,Software design
+223,223,Software design
+224,224,Other
+225,225,Other
+226,226,Other
+227,227,Other
+228,228,Other
+229,229,Other
+230,230,Other
+231,231,Other
+232,232,Other
+233,233,Other
+234,234,Other
+235,235,Other
+236,236,Nonconforming Material/Component
+237,237,Nonconforming Material/Component
+238,238,Nonconforming Material/Component
+239,239,Other
+240,240,Other
+241,241,Software design
+242,242,Other
+243,243,Other
+244,244,Software design
+245,245,Software design
+246,246,Other
+247,247,Other
+248,248,Other
+249,249,Other
+250,250,Other
+251,251,Other
+252,252,Other
+253,253,Other
+254,254,Other
+255,255,Other
+256,256,Other
+257,257,Other
+258,258,Other
+259,259,Other
+260,260,Other
+261,261,Other
+262,262,Other
+263,263,Other
+264,264,Other
+265,265,Other
+266,266,Other
+267,267,Other
+268,268,Other
+269,269,Other
+270,270,Other
+271,271,Other
+272,272,Other
+273,273,Other
+274,274,Other
+275,275,Other
+276,276,Other
+277,277,Other
+278,278,Other
+279,279,Other
+280,280,Other
+281,281,Other
+282,282,Other
+283,283,Other
+284,284,Other
+285,285,Other
+286,286,Other
+287,287,Other
+288,288,Other
+289,289,Other
+290,290,Device Design
+291,291,Device Design
+292,292,Other
+293,293,Other
+294,294,Other
+295,295,Other
+296,296,Labeling design
+297,297,Labeling design
+298,298,Device Design
+299,299,Other
+300,300,Other
+301,301,Other
+302,302,Other
+303,303,Other
+304,304,Other
+305,305,Other
+306,306,Other
+307,307,Other
+308,308,Other
+309,309,Other
+310,310,Other
+311,311,Other
+312,312,Other
+313,313,Other
+314,314,Other
+315,315,Other
+316,316,Other
+317,317,Other
+318,318,Other
+319,319,Other
+320,320,Other
+321,321,Other
+322,322,Other
+323,323,Other
+324,324,Other
+325,325,Other
+326,326,Other
+327,327,Other
+328,328,Other
+329,329,Other
+330,330,Other
+331,331,Other
+332,332,Other
+333,333,Other
+334,334,Other
+335,335,Other
+336,336,Other
+337,337,Other
+338,338,Other
+339,339,Other
+340,340,Other
+341,341,Other
+342,342,Other
+343,343,Other
+344,344,Other
+345,345,Other
+346,346,Other
+347,347,Other
+348,348,Other
+349,349,Other
+350,350,Other
+351,351,Other
+352,352,Other
+353,353,Other
+354,354,Other
+355,355,Other
+356,356,Other
+357,357,Other
+358,358,Other
+359,359,Other
+360,360,Other
+361,361,Other
+362,362,Other
+363,363,Other
+364,364,Other
+365,365,Other
+366,366,Other
+367,367,Other
+368,368,Other
+369,369,Other
+370,370,Under Investigation by firm
+371,371,Software design
+372,372,Software design
+373,373,Software design
+374,374,Software design
+375,375,Software design
+376,376,Device Design
+377,377,Software Design Change
+378,378,Labeling design
+379,379,Labeling design
+380,380,Device Design
+381,381,Device Design
+382,382,Device Design
+383,383,Device Design
+384,384,Device Design
+385,385,Device Design
+386,386,Device Design
+387,387,Device Design
+388,388,Device Design
+389,389,Use error
+390,390,Software Design Change
+391,391,Nonconforming Material/Component
+392,392,Device Design
+393,393,Under Investigation by firm
+394,394,Under Investigation by firm
+395,395,Under Investigation by firm
+396,396,Under Investigation by firm
+397,397,Under Investigation by firm
+398,398,Under Investigation by firm
+399,399,Under Investigation by firm
+400,400,Under Investigation by firm
+401,401,Under Investigation by firm
+402,402,Under Investigation by firm
+403,403,Component change control
+404,404,Component change control
+405,405,Component change control
+406,406,Process design
+407,407,Process design
+408,408,Device Design
+409,409,Device Design
+410,410,Device Design
+411,411,Component design/selection
+412,412,Component design/selection
+413,413,Nonconforming Material/Component
+414,414,Nonconforming Material/Component
+415,415,Under Investigation by firm
+416,416,Under Investigation by firm
+417,417,Under Investigation by firm
+418,418,Device Design
+419,419,Device Design
+420,420,Process control
+421,421,Device Design
+422,422,Error in labeling
+423,423,Under Investigation by firm
+424,424,Under Investigation by firm
+425,425,Under Investigation by firm
+426,426,Under Investigation by firm
+427,427,Device Design
+428,428,Under Investigation by firm
+429,429,Pending
+430,430,Pending
+431,431,Pending
+432,432,Pending
+433,433,Pending
+434,434,Pending
+435,435,Pending
+436,436,Pending
+437,437,Pending
+438,438,Pending
+439,439,Pending
+440,440,Pending
+441,441,Pending
+442,442,Pending
+443,443,Pending
+444,444,Pending
+445,445,Pending
+446,446,Pending
+447,447,Pending
+448,448,Pending
+449,449,Pending
+450,450,Pending
+451,451,Pending
+452,452,Pending
+453,453,Pending
+454,454,Pending
+455,455,Pending
+456,456,Pending
+457,457,Pending
+458,458,Pending
+459,459,Pending
+460,460,Component design/selection
+461,461,Other
+462,462,Device Design
+463,463,Component design/selection
+464,464,Device Design
+465,465,Under Investigation by firm
+466,466,Under Investigation by firm
+467,467,Device Design
+468,468,Device Design
+469,469,Device Design
+470,470,Device Design
+471,471,Device Design
+472,472,Software Design Change
+473,473,Software design
+474,474,Device Design
+475,475,Device Design
+476,476,Device Design
+477,477,Device Design
+478,478,Device Design
+479,479,Device Design
+480,480,Device Design
+481,481,Device Design
+482,482,Component design/selection
+483,483,Device Design
+484,484,Device Design
+485,485,Process control
+486,486,Software design
+487,487,Under Investigation by firm
+488,488,Under Investigation by firm
+489,489,Device Design
+490,490,Component design/selection
+491,491,Component design/selection
+492,492,Component design/selection
+493,493,Process control
+494,494,Labeling design
+495,495,Device Design
+496,496,Device Design
+497,497,Device Design
+498,498,Device Design
+499,499,Device Design
+500,500,Device Design
+501,501,Device Design
+502,502,Device Design
+503,503,Device Design
+504,504,Device Design
+505,505,Device Design
+506,506,Nonconforming Material/Component
+507,507,Software design
+508,508,Software design
+509,509,Software design
+510,510,Software design
+511,511,Under Investigation by firm
+512,512,Under Investigation by firm
+513,513,Process control
+514,514,Device Design
+515,515,Device Design
+516,516,Device Design
+517,517,Device Design
+518,518,Device Design
+519,519,Device Design
+520,520,Nonconforming Material/Component
+521,521,Nonconforming Material/Component
+522,522,Nonconforming Material/Component
+523,523,Nonconforming Material/Component
+524,524,Nonconforming Material/Component
+525,525,Nonconforming Material/Component
+526,526,Device Design
+527,527,Device Design
+528,528,Device Design
+529,529,Device Design
+530,530,Device Design
+531,531,Device Design
+532,532,Device Design
+533,533,Device Design
+534,534,Device Design
+535,535,Device Design
+536,536,Device Design
+537,537,Device Design
+538,538,Device Design
+539,539,Device Design
+540,540,Device Design
+541,541,Device Design
+542,542,Device Design
+543,543,Device Design
+544,544,Device Design
+545,545,Device Design
+546,546,Device Design
+547,547,Device Design
+548,548,Device Design
+549,549,Device Design
+550,550,Device Design
+551,551,Device Design
+552,552,Device Design
+553,553,Device Design
+554,554,Device Design
+555,555,Device Design
+556,556,Device Design
+557,557,Device Design
+558,558,Device Design
+559,559,Component design/selection
+560,560,Under Investigation by firm
+561,561,Software design
+562,562,Process change control
+563,563,Process change control
+564,564,Device Design
+565,565,Device Design
+566,566,Device Design
+567,567,Device Design
+568,568,Device Design
+569,569,Device Design
+570,570,Device Design
+571,571,Device Design
+572,572,Device Design
+573,573,Device Design
+574,574,Device Design
+575,575,Device Design
+576,576,Device Design
+577,577,Device Design
+578,578,Device Design
+579,579,Device Design
+580,580,Device Design
+581,581,Nonconforming Material/Component
+582,582,Nonconforming Material/Component
+583,583,Nonconforming Material/Component
+584,584,Under Investigation by firm
+585,585,Under Investigation by firm
+586,586,Device Design
+587,587,Employee error
+588,588,Device Design
+589,589,Nonconforming Material/Component
+590,590,Nonconforming Material/Component
+591,591,Nonconforming Material/Component
+592,592,Nonconforming Material/Component
+593,593,Nonconforming Material/Component
+594,594,Software design
+595,595,Software design
+596,596,Software design
+597,597,Software design
+598,598,Software design
+599,599,Software design
+600,600,Software design
+601,601,Software design
+602,602,Software design
+603,603,Software design
+604,604,Software design
+605,605,Software design
+606,606,Device Design
+607,607,Device Design
+608,608,Device Design
+609,609,Device Design
+610,610,Device Design
+611,611,Device Design
+612,612,Process control
+613,613,Device Design
+614,614,Device Design
+615,615,Manufacturing material removal
+616,616,Manufacturing material removal
+617,617,Device Design
+618,618,Device Design
+619,619,Device Design
+620,620,Device Design
+621,621,Process control
+622,622,Packaging process control
+623,623,Software design
+624,624,Under Investigation by firm
+625,625,Nonconforming Material/Component
+626,626,Process change control
+627,627,Process change control
+628,628,Component design/selection
+629,629,Component design/selection
+630,630,Under Investigation by firm
+631,631,Component design/selection
+632,632,Nonconforming Material/Component
+633,633,Use error
+634,634,Use error
+635,635,Use error
+636,636,Use error
+637,637,Process control
+638,638,Use error
+639,639,Use error
+640,640,Process control
+641,641,Process control
+642,642,Software design
+643,643,Software design
+644,644,Software design
+645,645,Software design
+646,646,Nonconforming Material/Component
+647,647,Other
+648,648,Device Design
+649,649,Under Investigation by firm
+650,650,Employee error
+651,651,Component design/selection
+652,652,Component design/selection
+653,653,Component design/selection
+654,654,Component design/selection
+655,655,Component design/selection
+656,656,Nonconforming Material/Component
+657,657,Device Design
+658,658,Labeling design
+659,659,Labeling design
+660,660,Labeling design
+661,661,Labeling design
+662,662,Labeling design
+663,663,Device Design
+664,664,Device Design
+665,665,Device Design
+666,666,Device Design
+667,667,Device Design
+668,668,Device Design
+669,669,Device Design
+670,670,Device Design
+671,671,Nonconforming Material/Component
+672,672,Nonconforming Material/Component
+673,673,Unknown/Undetermined by firm
+674,674,Unknown/Undetermined by firm
+675,675,Device Design
+676,676,Device Design
+677,677,Employee error
+678,678,Employee error
+679,679,Employee error
+680,680,Employee error
+681,681,Employee error
+682,682,Device Design
+683,683,Other
+684,684,Other
+685,685,Component design/selection
+686,686,Component design/selection
+687,687,Labeling design
+688,688,Component design/selection
+689,689,Component design/selection
+690,690,Under Investigation by firm
+691,691,Software design
+692,692,Software design
+693,693,Software design
+694,694,Device Design
+695,695,Device Design
+696,696,Other
+697,697,Other
+698,698,Other
+699,699,Other
+700,700,Other
+701,701,Other
+702,702,Other
+703,703,Other
+704,704,Other
+705,705,Under Investigation by firm
+706,706,Nonconforming Material/Component
+707,707,Software design
+708,708,Software design
+709,709,Software design
+710,710,Software design
+711,711,Other
+712,712,Software in the Use Environment
+713,713,Device Design
+714,714,Use error
+715,715,Software design
+716,716,Device Design
+717,717,Process control
+718,718,Process control
+719,719,Device Design
+720,720,Device Design
+721,721,Device Design
+722,722,Device Design
+723,723,Device Design
+724,724,Other
+725,725,Other
+726,726,Nonconforming Material/Component
+727,727,Nonconforming Material/Component
+728,728,Software design
+729,729,Vendor change control
+730,730,Under Investigation by firm
+731,731,Process change control
+732,732,Unknown/Undetermined by firm
+733,733,Device Design
+734,734,Software design
+735,735,Under Investigation by firm
+736,736,Process change control
+737,737,Process change control
+738,738,Software design
+739,739,Software design
+740,740,Manufacturing material removal
+741,741,Process control
+742,742,Software design
+743,743,Device Design
+744,744,Manufacturing material removal
+745,745,Process control
+746,746,Vendor change control
+747,747,Process control
+748,748,Nonconforming Material/Component
+749,749,Device Design
+750,750,Device Design
+751,751,Nonconforming Material/Component
+752,752,Nonconforming Material/Component
+753,753,Nonconforming Material/Component
+754,754,Nonconforming Material/Component
+755,755,Nonconforming Material/Component
+756,756,Nonconforming Material/Component
+757,757,Nonconforming Material/Component
+758,758,Nonconforming Material/Component
+759,759,Nonconforming Material/Component
+760,760,Nonconforming Material/Component
+761,761,Nonconforming Material/Component
+762,762,Nonconforming Material/Component
+763,763,Nonconforming Material/Component
+764,764,Nonconforming Material/Component
+765,765,Nonconforming Material/Component
+766,766,Nonconforming Material/Component
+767,767,Nonconforming Material/Component
+768,768,Nonconforming Material/Component
+769,769,Nonconforming Material/Component
+770,770,Nonconforming Material/Component
+771,771,Nonconforming Material/Component
+772,772,Nonconforming Material/Component
+773,773,Nonconforming Material/Component
+774,774,Nonconforming Material/Component
+775,775,Nonconforming Material/Component
+776,776,Nonconforming Material/Component
+777,777,Nonconforming Material/Component
+778,778,Nonconforming Material/Component
+779,779,Nonconforming Material/Component
+780,780,Nonconforming Material/Component
+781,781,Nonconforming Material/Component
+782,782,Nonconforming Material/Component
+783,783,Nonconforming Material/Component
+784,784,Nonconforming Material/Component
+785,785,Nonconforming Material/Component
+786,786,Device Design
+787,787,Device Design
+788,788,Software design
+789,789,Device Design
+790,790,Nonconforming Material/Component
+791,791,Device Design
+792,792,Component design/selection
+793,793,Other
+794,794,Under Investigation by firm
